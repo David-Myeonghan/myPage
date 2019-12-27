@@ -6,10 +6,17 @@
 	height: 40vmin;
 	pointer-events: none;
 }
+.App-logoo {
+	height: 40vmin;
+	pointer-events: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
 	.App-logo {
 		animation: App-logo-spin infinite 1s linear;
+	}
+	.App-logoo {
+		animation: App-logo-spin infinite 5s linear;
 	}
 }
 
