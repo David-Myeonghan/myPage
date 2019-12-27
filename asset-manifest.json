@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/David-Myeonghan/myPage.git/static/css/main.d1b05096.chunk.css",
-    "main.js": "/David-Myeonghan/myPage.git/static/js/main.c0aaf6e3.chunk.js",
-    "main.js.map": "/David-Myeonghan/myPage.git/static/js/main.c0aaf6e3.chunk.js.map",
-    "runtime-main.js": "/David-Myeonghan/myPage.git/static/js/runtime-main.2d1dff57.js",
-    "runtime-main.js.map": "/David-Myeonghan/myPage.git/static/js/runtime-main.2d1dff57.js.map",
-    "static/js/2.9d00f566.chunk.js": "/David-Myeonghan/myPage.git/static/js/2.9d00f566.chunk.js",
-    "static/js/2.9d00f566.chunk.js.map": "/David-Myeonghan/myPage.git/static/js/2.9d00f566.chunk.js.map",
-    "index.html": "/David-Myeonghan/myPage.git/index.html",
-    "precache-manifest.dd2050da2b5a640b8f8034b3a76eb0b8.js": "/David-Myeonghan/myPage.git/precache-manifest.dd2050da2b5a640b8f8034b3a76eb0b8.js",
-    "service-worker.js": "/David-Myeonghan/myPage.git/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/David-Myeonghan/myPage.git/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.9d00f566.chunk.js.LICENSE": "/David-Myeonghan/myPage.git/static/js/2.9d00f566.chunk.js.LICENSE",
-    "static/media/logo.svg": "/David-Myeonghan/myPage.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/myPage/static/css/main.024d1e45.chunk.css",
+    "main.js": "/myPage/static/js/main.25343057.chunk.js",
+    "main.js.map": "/myPage/static/js/main.25343057.chunk.js.map",
+    "runtime-main.js": "/myPage/static/js/runtime-main.2e1d7f3e.js",
+    "runtime-main.js.map": "/myPage/static/js/runtime-main.2e1d7f3e.js.map",
+    "static/js/2.9d00f566.chunk.js": "/myPage/static/js/2.9d00f566.chunk.js",
+    "static/js/2.9d00f566.chunk.js.map": "/myPage/static/js/2.9d00f566.chunk.js.map",
+    "index.html": "/myPage/index.html",
+    "precache-manifest.8d7f44d1bec68645b4b8cf18d3f3fc6c.js": "/myPage/precache-manifest.8d7f44d1bec68645b4b8cf18d3f3fc6c.js",
+    "service-worker.js": "/myPage/service-worker.js",
+    "static/css/main.024d1e45.chunk.css.map": "/myPage/static/css/main.024d1e45.chunk.css.map",
+    "static/js/2.9d00f566.chunk.js.LICENSE": "/myPage/static/js/2.9d00f566.chunk.js.LICENSE",
+    "static/media/logo.svg": "/myPage/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d1dff57.js",
+    "static/js/runtime-main.2e1d7f3e.js",
     "static/js/2.9d00f566.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.c0aaf6e3.chunk.js"
+    "static/css/main.024d1e45.chunk.css",
+    "static/js/main.25343057.chunk.js"
   ]
 }
